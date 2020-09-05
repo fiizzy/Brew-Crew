@@ -1,4 +1,4 @@
-# place_finder
+# firebase_with_firestore_app
 
 A new Flutter project.
 

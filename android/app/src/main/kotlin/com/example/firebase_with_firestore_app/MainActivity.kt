@@ -1,4 +1,4 @@
-package com.example.place_finder
+package com.example.firebase_with_firestore_app
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
