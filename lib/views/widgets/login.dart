@@ -45,7 +45,9 @@ class Login extends StatelessWidget {
                   decoration: InputDecoration(
                       labelText: 'Password',
                       hintText: 'Enter Password',
-                      border: const OutlineInputBorder()),
+                      border: const OutlineInputBorder(
+                        // borderRadius: BorderRadius.all(Radius.circular(30))
+                      )),
                 ),
                 SizedBox(
                   height: 30,
